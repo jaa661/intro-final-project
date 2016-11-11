@@ -1,0 +1,5 @@
+README
+
+Current Proposal
+Our game proposal is for a time-based side scroller based on a student trying to make it to class on time. You would start from a position designed like your door/bed/something and have to make it to the flag, in this case class, within a certain time. The obstacles would includes other students, rocks, mud, or gum to jump over as well as terrain obstacles. These obstacles would not be game ending like in mario, but would temporarily slow you down therefore making it harder to get to class on time. There will probably be game ending obstacles; Such as falling into a manhole.If you do make it to class on time, your score is determined by the amount of time you had left to get to school and would be put thusly on a high score table.  
+	Graphics will be as simplistic as early mario, and we will be drawing much of our inspiration from there. The keys will be programmed as left right and space to jump. Collision detection will be rect based. If sidescrolling graphics become an issue in pygames, a level style of play can be adapted.
